@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"></a> &nbsp 
+<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"></a> &nbsp 
 <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=Arduino&logoColor=white"></a> &nbsp 
