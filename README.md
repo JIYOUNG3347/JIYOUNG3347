@@ -1,4 +1,5 @@
-### Hi there 👋
+
+<h3 align="center"> ### Hi there 👋
 
 <!--
 **JIYOUNG3347/JIYOUNG3347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,3 +24,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"></a> &nbsp 
+<img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=java&logoColor=white"></a> &nbsp 
+<img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=java&logoColor=white"></a> &nbsp 
