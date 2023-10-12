@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jiyoung%20Choi&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Jiyoung%20Choi&fontSize=60)
+
+<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+</br>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
