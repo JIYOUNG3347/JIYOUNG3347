@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Jiyoung%20Choi&fontSize=60)
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3></br>
